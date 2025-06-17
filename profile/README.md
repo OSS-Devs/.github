@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://github.com/OSS-Devs/.github">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/OSS-Devs">
+    <img src="https://raw.githubusercontent.com/OSS-Devs/.github/refs/heads/main/images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">OSS-Devs</h3>
